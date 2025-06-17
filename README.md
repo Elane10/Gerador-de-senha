@@ -29,5 +29,5 @@ Design moderno e responsivo.
 
 📸 Preview
 
-![Tela Inicial](./imagem/Tela_Inicial1.png)
+![Tela Inicial](./img/Tela_Inicial1.png)
 
