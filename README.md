@@ -30,4 +30,6 @@ Design moderno e responsivo.
 📸 Preview
 
 ![Tela Inicial](./img/Tela_Inicial1.png)
+![Tela Inicial](./img/Tela_2.png)
+![Tela Inicial](./img/Tela_3.png)
 
