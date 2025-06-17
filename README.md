@@ -29,7 +29,7 @@ Design moderno e responsivo.
 
 📸 Preview
 
-(img/Tela_Inicial1.png)
-(img/Tela_2.png)
-(img/Tela_3.png)
+(imagem/Tela_Inicial1.png)
+(imagem/Tela_2.png)
+(imagem/Tela_3.png)
 
